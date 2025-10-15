@@ -10,4 +10,4 @@ function main(arr) {
     return arr
 }
 
-console.log("Sorted array", main( [9,1,3,4,2,0,8]));
+console.log("Sorted array", main([9,1,3,4,2,0,8]));
